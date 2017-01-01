@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "testingmod",
+  "name": "Testing Mod",
+  "description": "Make a testing mod.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["MysteryQ"],
+  "credits": "The Forge and FML guys, for making this forge and fml",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
